@@ -4,12 +4,12 @@ Here i have tried to build a website based on cricket . In this website we will 
 future aspects :
 In the page , at the top of the page there will be some icons or links 
 like: matches
-      News
-      videos
-      players
-      more
-      search
-      login etc 
+      News,
+      videos,
+      players,
+      more,
+      search,
+      login, etc 
   on clicking the links the user will  be redirected to the respective pages containing the respective contents.
 
 below that there will be a section where the user will be able to see live scores of live matches and recent matches .
@@ -22,9 +22,9 @@ after that there will be some paragraphs about the website
 
 after that their will be a footer section where there will be some important links 
 such as :
-         privacy policy 
-         terms & conditions
-         contact details 
+         privacy policy ,
+         terms & conditions,
+         contact details ,
          social media pages etc .
 
 also there will be a button displayed on the page to scroll to the top of the page .
